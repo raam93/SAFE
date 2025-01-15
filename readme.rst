@@ -1,5 +1,5 @@
 
-SAFE (**S**elf-**A**ssessing **F**aithfulness for **E**xplanations)
+SAFE (Self-Assessing Faithfulness for Explanations)
 ====================================================================
 
 Repo structure:
