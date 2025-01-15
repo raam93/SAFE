@@ -13,18 +13,14 @@ Datasets:
 ---------
 In addition to the datasets provided in the `data <https://github.com/SAFE/tree/master/input_data>`_, we need to experiment on the following datasets. Add more if anything seems relevant. There are two types of datasets:
 
-**(Mostly) Independent texts**:
-
-1. `Civil Comments <https://paperswithcode.com/dataset/civil-comments>`_.  
+**(Mostly) Independent texts**: \n
+* `Civil Comments <https://paperswithcode.com/dataset/civil-comments>`_.  
     a. This is a large datasets, so a random sample of 10,000 is provided in the `data <https://github.com/SAFE/tree/master/input_data>`_  folder.
-
-2. `Context Sensitivity Estimation in Toxicity Detection <https://aclanthology.org/2021.woah-1.15/>`_
+* `Context Sensitivity Estimation in Toxicity Detection <https://aclanthology.org/2021.woah-1.15/>`_
     a. Code availability is not unclear - TODO -
     b. But this dataset is based on the above Civil Comments dataset, so we can easily reproduce.
-
-3. `HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection <https://arxiv.org/abs/2012.10289>`_
-
-4. `Designing Toxic Content Classification for a Diversity of Perspectives <https://arxiv.org/abs/2106.04511>`_
+* `HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection <https://arxiv.org/abs/2012.10289>`_
+* `Designing Toxic Content Classification for a Diversity of Perspectives <https://arxiv.org/abs/2106.04511>`_
 
 
 **Texts completed by LLMs** (these datasets will mostly have a human reference):
