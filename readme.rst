@@ -11,11 +11,11 @@ Repo structure:
 
 Datasets:
 ---------
-In addition to the datasets provided in the `data <https://github.com/SAFE/tree/master/input_data>`_, we need to experiment on the following datasets. Add more if anything seems relevant.
+In addition to the datasets provided in the `data <https://github.com/SAFE/tree/master/input_data>`_, we need to experiment on the following datasets. Add more if anything seems relevant. There are two types of datasets:
 
-There are two types of datasets:
-| **(Mostly) Independent texts**:
-| 1. `Civil Comments <https://paperswithcode.com/dataset/civil-comments>`_.  
+**(Mostly) Independent texts**:
+
+1. `Civil Comments <https://paperswithcode.com/dataset/civil-comments>`_.  
     a. This is a large datasets, so a random sample of 10,000 is provided in the `data <https://github.com/SAFE/tree/master/input_data>`_  folder.
 
 2. `Context Sensitivity Estimation in Toxicity Detection <https://aclanthology.org/2021.woah-1.15/>`_
@@ -28,7 +28,8 @@ There are two types of datasets:
 
 
 **Texts completed by LLMs** (these datasets will mostly have a human reference):
-| 1. `Unveiling the Implicit Toxicity in Large Language Models <https://aclanthology.org/2023.emnlp-main.84/>`_
+
+1. `Unveiling the Implicit Toxicity in Large Language Models <https://aclanthology.org/2023.emnlp-main.84/>`_
 
 2. ToxiGen
 
@@ -50,7 +51,7 @@ To add a new dataset and related processing steps:
 
 
 Tasks for Joanna:
----------------------
+-----------------
 1. Check if combining prompt and response is useful for different datasets. If so, experiment and find out good strategies.
 
 2. Try multiple prompts and concatenate with existing LLM-generated responses  
@@ -62,5 +63,5 @@ Tasks for Joanna:
 
 
 Tasks for Ram:
-------------------
+--------------
 1. Start writing evaluator classes and methods for two examples and then scale it up.
