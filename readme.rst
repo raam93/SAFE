@@ -6,7 +6,8 @@ SAFE (Self-Assessing Faithfulness for Explanations)
 Repo structure:
 ---------------
 
-* `input_data <https://github.com/SAFE/tree/master/input_data>`_ contains the datasets used in the experiments.
+* `input_data <https://github.com/SAFE/tree/master/input_data>`_ contains the raw input datasets.
+    * `input_data/processed_data <https://github.com/SAFE/tree/master/input_data/processed_data>`_ contains processed input data that will used as prompts.
 * `utils <https://github.com/SAFE/tree/master/utils>`_ contains files with helper functions.
 * `data_loader.py <https://github.com/SAFE/tree/master/data_loader.py>`_ contains the class and methods required to load input texts (prompts) to LMs.
 * `safe.py <https://github.com/SAFE/tree/master/safe.py>`_ is the main file that a user will run for experiments.
