@@ -14,9 +14,9 @@ Joanna_Testing.ipynb
 reasoner.py
 main_test.py
 main_test.ipynb
-data/civil_comments_train.csv 
-data/civil_comments_test.csv
-data/civil_comments_validation.csv
+input_data/civil_comments_train.csv 
+input_data/civil_comments_test.csv
+input_data/civil_comments_validation.csv
 notes.md
 
 # Environments
