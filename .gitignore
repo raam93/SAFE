@@ -5,6 +5,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+Joanna_Testing.ipynb
 
 # pyenv
 .python-version
@@ -15,6 +16,7 @@ main_test.py
 main_test.ipynb
 data/civil_comments_train.csv 
 data/civil_comments_test.csv
+data/civil_comments_validation.csv
 notes.md
 
 # Environments
