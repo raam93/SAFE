@@ -11,7 +11,7 @@ Repo structure:
 * `utils <https://github.com/SAFE/tree/master/utils>`_ contains files with helper functions.
 * `data_loader.py <https://github.com/SAFE/tree/master/data_loader.py>`_ contains the class and methods required to load input texts (prompts) to LMs.
 * `safe.py <https://github.com/SAFE/tree/master/safe.py>`_ is the main file that a user will run for experiments.
-* `Ram_Unsloth.ipynb <https://github.com/SAFE/tree/master/Ram_Unsloth.ipynb>`_ contains the code used for generating initial LM response to input texts.
+* `ram_generation.ipynb <https://github.com/SAFE/tree/master/ram_generation.ipynb>`_ contains the code used for generating initial LM response to input texts.
 
 Datasets:
 ---------
