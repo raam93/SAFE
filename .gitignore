@@ -5,7 +5,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-Joanna_Testing.ipynb
 
 # pyenv
 .python-version
@@ -14,16 +13,10 @@ Joanna_Testing.ipynb
 reasoner.py
 main_test.py
 main_test.ipynb
-input_data/civil_comments_train.csv 
-input_data/civil_comments_test.csv
-input_data/civil_comments_validation.csv
-input_data/context_sensitivity_toxicity_gc.csv
-input_data/context_sensitivity_toxicity_gn.csv
-input_data/context_sensitivity_toxicity_CCC.csv
-input_data/hatexplain.json
-input_data/toxic_content_classification_diverse.zip
+input_data/*
 .DS_Store
 notes.md
+joanna_notes/*
 
 # Environments
 .env
