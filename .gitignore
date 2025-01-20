@@ -13,10 +13,14 @@ __pycache__/
 reasoner.py
 main_test.py
 main_test.ipynb
-data/civil_comments_train.csv 
-data/civil_comments_test.csv
+input_data/*
+.DS_Store
 notes.md
+<<<<<<< HEAD
 *test.ipynb
+=======
+joanna_notes/*
+>>>>>>> ac26a80f1b557d9d20bdc4d7bf773d4f287a0aba
 
 # Environments
 .env
