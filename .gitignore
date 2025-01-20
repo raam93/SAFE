@@ -16,6 +16,7 @@ main_test.ipynb
 data/civil_comments_train.csv 
 data/civil_comments_test.csv
 notes.md
+*test.ipynb
 
 # Environments
 .env
